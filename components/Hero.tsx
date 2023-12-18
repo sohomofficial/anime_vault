@@ -12,7 +12,7 @@ function Hero() {
           className="object-contain"
         />
         <h1 className="sm:text-6xl text-5xl text-black lg:max-w-lg font-bold leading-[120%]">
-          Explore The <span className="text-red-800">Diverse Realms</span> of
+          Explore The <span className="text-orange-600">Diverse Realms</span> of
           Anime Magic
         </h1>
       </div>
